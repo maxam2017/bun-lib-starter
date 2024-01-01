@@ -1,6 +1,6 @@
 {
   "name": "bun-lib-starter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -20,8 +20,12 @@
     "prepublishOnly": "bun run build",
     "test": "bun test"
   },
-  "files": ["dist"],
-  "keywords": ["bun"],
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "bun"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/maxam2017/bun-lib-starter#readme",
   "repository": {
