@@ -10,8 +10,9 @@ A starter template for node library built with bun.
 
 - 🚀 **Typescript Support**
 - 🧼 **Linting and Formatting with Pre-commit Hooks** (Powered by pre-commit and biomejs)
-- 📦 **Bundling with tsup** (cjs and esm)
-- 🧪 **Built-in Test Runner** (Powered by bun)
+- 📦 **Efficient Bundling with tsup** (Supporting both cjs and esm)
+- 🧪 **Inclusive Built-in Test Runner** (Powered by bun)
+- 🌐 **GitHub Actions for CI/CD and Changelog Automation**
 
 ## Getting Started
 
