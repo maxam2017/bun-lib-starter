@@ -23,18 +23,23 @@ A starter template for node library built with bun.
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/maxam2017/bun-lib-starter.git
-   ```
-1. Install pre-commit hooks
-   ```sh
-   pre-commit install
-   ```
-1. Install bun packages
-   ```sh
-   bun install
-   ```
+Use bun CLI to create a new project **(recommended)**
+
+```sh
+bun create maxam2017/bun-lib-starter <your-project-name>
+```
+
+or clone this repo and install manually
+
+```sh
+git clone https://github.com/maxam2017/bun-lib-starter.git
+
+cd bun-lib-starter
+
+pre-commit install
+
+bun install
+```
 
 ### Development
 

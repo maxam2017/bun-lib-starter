@@ -39,5 +39,8 @@
   },
   "release": {
     "branches": ["main"]
+  },
+  "bun-create": {
+    "preinstall": "pre-commit install"
   }
 }
