@@ -12,7 +12,7 @@ A starter template for node library built with bun.
 - 🧼 **Linting and Formatting with Pre-commit Hooks** (Powered by pre-commit and biomejs)
 - 📦 **Efficient Bundling with tsup** (Supporting both cjs and esm)
 - 🧪 **Inclusive Built-in Test Runner** (Powered by bun)
-- 🌐 **GitHub Actions for CI/CD and Changelog Automation**
+- 🌐 **GitHub Actions for CI/CD and Semantic Release Automation**
 
 ## Getting Started
 

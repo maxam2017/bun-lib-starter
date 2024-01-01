@@ -30,7 +30,7 @@ jobs:
       - id: install-deps
         name: Install dependencies
         run: |
-          bun install
+          bun install --frozen-lockfile
       - id: biome
         name: Run biome
         run: |
